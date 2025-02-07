@@ -1,3 +1,4 @@
+## Desciption
 GameBB is an engaging block blast game developed by EarthLLM. In this document, we outline the renaming process and provide guidelines for renaming elements within the game.
 
 ## Purpose of Renaming
